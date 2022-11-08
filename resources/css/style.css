@@ -29,3 +29,13 @@ html {
     font-size: 21px;
     color: gray;
 }
+
+.phoneimg {
+    display: block;
+    text-align: center;
+}
+
+.copyright {
+    color: gray;
+    float: right;
+}
