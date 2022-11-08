@@ -1,0 +1,22 @@
+html {
+    background-color: black;
+}
+
+.header {
+    text-align: center;
+}
+
+.title {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    /* text-align: center; */
+    color: white;
+    width: 100%;
+}
+
+.downloadlink {
+    font-size: 16px;
+    color: aquamarine;
+    text-decoration: underline;
+}
